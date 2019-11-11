@@ -1,0 +1,12 @@
+{
+    "name": "vendor/test_cpp_2019",
+    "description": "c\b测试使用Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "asheng Smith",
+            "email": "ls9277@gmail.com"
+        }
+    ],
+    "require": {}
+}
