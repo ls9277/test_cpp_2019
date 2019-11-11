@@ -1,10 +1,10 @@
 {
-    "name": "vendor/test_cpp_2019",
-    "description": "c\b测试使用Composer",
+    "name": "test_cpp_2019",
+    "description": "测试使用Composer",
     "type": "project",
     "authors": [
         {
-            "name": "asheng Smith",
+            "name": "asheng",
             "email": "ls9277@gmail.com"
         }
     ],
